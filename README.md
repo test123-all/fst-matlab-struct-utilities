@@ -61,6 +61,8 @@ struct1 = struct('field1', 1, 'field2', struct2, 'field3', 3);
 [output_value, error_flag] = getValueInsideNestedStructWithPath(struct1, '.field2.testfield2.sub3');
 
 % The output_value is in this case 4
+
+
 ```
 
 ## Possible Improvements:

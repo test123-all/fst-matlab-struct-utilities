@@ -22,7 +22,7 @@ disp('Test 1 Successfully finished!')
 
 %% Test 2; Test where two variables would get overwritten, test if error gets raised
 struct1 = struct('field1', 1, 'field2', 2, 'field3', 3);
-struct2 = struct('field2', 2, 'field4', 4);
+struct2 = struct('field2', 3, 'field4', 4);
 
 error_flag = 0;
 try

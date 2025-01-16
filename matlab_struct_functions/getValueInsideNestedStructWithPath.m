@@ -1,6 +1,6 @@
 %% utf-8
 
-function [error_flag, output_value] = getValueInsideNestedStructWithPath(input_struct, struct_path)
+function [output_value, error_flag] = getValueInsideNestedStructWithPath(input_struct, struct_path)
 % aber input_struct.ahah.() geht d.h. ich muss bis ganz runter laufen die
 % sachen ändern und wieder hoch laufen
 

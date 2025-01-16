@@ -3,6 +3,7 @@
 %% Setup
 clear
 
+% TODO: the assert Messages are still wrong.
 %% Test 1; Normal functional test
 sub_struct3 = struct('subsubsubstruct6', 6, 'subsubsubstruct5', 7);
 sub_struct2 = struct('subsubstruct4', 4, 'subsubstruct5', sub_struct3);

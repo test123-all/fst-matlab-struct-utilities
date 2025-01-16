@@ -86,13 +86,12 @@ The license choice is the MIT License (https://opensource.org/license/mit)
         <span property="schema:email">sebastian.neumeieratstud.tu-darmstadt.de</span>
     </div>
     <h2>Authors:</h2>
-    <p xmlns:dcterms="http://purl.org/dc/terms/">The first scripts in this repository used to generate usable datasets
-        were originally created in
-        <span property="dcterms:date" content="2023-10-01">October 2023</span>,
-        <span property="dcterms:date" content="2023-10-01">November 2023</span>
-        and
-        <span property="dcterms:date" content="2023-10-01">December 2023</span>
-        by:
+    <p xmlns:dcterms="http://purl.org/dc/terms/">The first working version of this package was originally created and split of from another
+       software from the FST in
+       <span property="dcterms:date" content="2024-01-01">January 2024</span>
+       and
+       <span property="dcterms:date" content="2024-02-01">February 2024</span>
+       by:
     </p>
     <div typeof="schema:Person">
         <strong property="schema:givenName">Sebastian</strong>
